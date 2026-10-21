@@ -20,3 +20,4 @@ print(f"Dien nang: {dien_nang_kwh:.3f} kwh")
 print(f"Chi phi: {chi_phi:.2f} VND")
 print(f"Tren 60 phut: {tren_60_phut}")
 print(f"Ghi nhan luc: {thoi_diem_ghi_nhan}")
+#Cap nhat phien ban v2
